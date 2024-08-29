@@ -1,5 +1,5 @@
 {
-"db": "tharusha paka"
+"scriptmsg": "tharusha paka"
 }
 
 
